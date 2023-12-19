@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      username: mongo
+      password: secretpassword
+      database: people
+      port: 27017
